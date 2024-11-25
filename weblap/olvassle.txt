@@ -1,0 +1,9 @@
+A képek a leonardo AI használatával lettek létrehotva.
+
+komfortzona.jpg promptja:
+A man emerges from his comfort zone, smashing through a barrier of glass with determination. His outstretched right hand grasps for something unseen. The shattered glass gleams with intricate neon blue and purple hues, reflecting his fractured journey to new horizons. This vividly detailed painting captures the raw emotion of stepping beyond familiar boundaries, portrayed with exquisite skill and rich, vibrant colors that bring the scene to life.
+
+futas.jpg promptja:
+Create a dynamic picture where a lean, athletic man with a chiseled physique is sprinting with unbridled energy, his toned legs and arms propelling him forward with each stride. His face is set in a determined expression, with sweat-glistened skin and a focused gaze, his eyebrows furrowed in concentration. The surrounding environment is blurred, with wispy trails of motion lingering behind him, as if the camera's shutter has been left open to capture the fleeting moments of his high-speed movement, akin to a high-exposure photo. His short, dark hair is ruffled, and his attire is a sleek, aerodynamic running suit in a deep, electric blue that contrasts vibrantly with the atmospheric haze surrounding him.
+
+
